@@ -11,6 +11,13 @@
 - 日志采集（Flume+kafka）
 - 日志入库（Flink+HDFS）
 
+#### 项目主要内容
+- 微信：mzv988
+- ![输入图片说明](https://images.gitee.com/uploads/images/2021/0201/105231_685d973a_5325125.png "xiaoxiangopen.png")
+
+#### 演示环境
+https://data.xiaoxiangai.com/   用户名密码：xiaoxiang1/123456
+
 #### 工作流程
 完成数据采集技术构建和业务设计，在App、小程序的系统供应商配合下完成用户行为数据采集埋点，并基于埋点的数据构建线上用户行为标签和画像。
  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0504/115612_bbd97789_5325125.png "屏幕截图.png")
@@ -56,11 +63,6 @@ SDK埋点采集行为数据来源终端包括iOS、安卓、Web、H5、微信小
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0504/123137_fa582c65_5325125.png "屏幕截图.png")
 
-#### 演示环境
-https://data.xiaoxiangai.com/   用户名密码：xiaoxiang1/123456
-
-#### 微信群
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0522/165133_7a954c50_5325125.png "屏幕截图.png")
 
 #### 版权声明
 小象数据行为分析 开源版遵循 GPL-3.0 开源协议发布，并提供免费使用，但 **绝不允许修改后和衍生的代码做为闭源的商业软件发布和销售 ！**
