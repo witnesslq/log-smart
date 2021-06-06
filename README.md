@@ -11,7 +11,7 @@
 - 日志采集（Flume+kafka）
 - 日志入库（Flink+HDFS）
 
-#### 加微信获取演示环境
+#### 加微信获取演示环境  请注明：github 小象用户行为分析
 - 微信：mzv988
 - ![输入图片说明](https://images.gitee.com/uploads/images/2021/0201/105231_685d973a_5325125.png "xiaoxiangopen.png")
 
