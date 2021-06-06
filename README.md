@@ -11,12 +11,9 @@
 - 日志采集（Flume+kafka）
 - 日志入库（Flink+HDFS）
 
-#### 项目主要内容
+#### 加微信获取演示环境
 - 微信：mzv988
 - ![输入图片说明](https://images.gitee.com/uploads/images/2021/0201/105231_685d973a_5325125.png "xiaoxiangopen.png")
-
-#### 演示环境
-https://data.xiaoxiangai.com/   用户名密码：xiaoxiang1/123456
 
 #### 工作流程
 完成数据采集技术构建和业务设计，在App、小程序的系统供应商配合下完成用户行为数据采集埋点，并基于埋点的数据构建线上用户行为标签和画像。
